@@ -1,2 +1,2 @@
-# Static-WebSite
-Static Website prject 
+# StaticWebSite project
+Шаблон статического сайта
